@@ -64,15 +64,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgommes1501&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgommes1501&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165" />
-</p>
-
----
-
 ## 📫 Contacto
 
 - 📧 **Email:** [Jaimegm17.123@gmail.com](mailto:Jaimegm17.123@gmail.com)
